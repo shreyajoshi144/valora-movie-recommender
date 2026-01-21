@@ -1,6 +1,6 @@
-# 🎬 **Velora Movie Recommender**
+# 🎬 **Valora Movie Recommender**
 
-Velora is a **hybrid movie recommendation engine** that intelligently combines **Content-Based Filtering**, **Collaborative Filtering**, and **Cold-Start strategies** to deliver personalized movie recommendations.
+Valora is a **hybrid movie recommendation engine** that intelligently combines **Content-Based Filtering**, **Collaborative Filtering**, and **Cold-Start strategies** to deliver personalized movie recommendations.
 
 The system is designed to mirror how **real-world recommender systems** work in platforms like Netflix and Amazon Prime — balancing **user behavior**, **movie metadata**, and **fallback logic** when data is sparse.
 
@@ -152,7 +152,7 @@ These metrics ensure the system is **measurable and interview-ready**.
 ## 📂 **Project Structure**
 
 ```
-velora-movie-recommender/
+valora-movie-recommender/
 │
 ├── data/
 │   ├── tmdb_5000_movies.csv
